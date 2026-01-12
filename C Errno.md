@@ -1,0 +1,2 @@
+# Values
+- `EINTR` - by default
