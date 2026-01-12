@@ -7,7 +7,7 @@
 
 # Где читать
 Всё это красивенько открывается в [Obsidian](http://obsidian.md). Файл с насройками всех необходимых плагинов подтянется автоматически.
-![[Pasted image 20260112161243.png]]<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/2e2ddd74-d5e4-454d-88eb-e6394600f1bf" />
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/2e2ddd74-d5e4-454d-88eb-e6394600f1bf" />
 
 # Что читать
 Основной Map of Content - [[Операционные системы 3 семестр]]
