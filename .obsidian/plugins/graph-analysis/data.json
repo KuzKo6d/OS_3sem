@@ -1,0 +1,22 @@
+{
+  "noInfinity": true,
+  "noZero": true,
+  "allFileExtensions": true,
+  "showImgThumbnails": true,
+  "addUnresolved": true,
+  "coTags": true,
+  "defaultSubtypeType": "Co-Citations",
+  "debugMode": false,
+  "superDebugMode": false,
+  "exclusionRegex": "",
+  "exclusionTags": [
+    "#review"
+  ],
+  "algsToShow": [
+    "Adamic Adar",
+    "Jaccard",
+    "Otsuka-Chiai",
+    "Co-Citations",
+    "Label Propagation"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "./attachments",
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showLineNumber": false,
+  "readableLineLength": true
+}
