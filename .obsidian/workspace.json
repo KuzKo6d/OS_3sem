@@ -22,49 +22,20 @@
             }
           },
           {
-            "id": "a593ec4de6006fbb",
+            "id": "4cd8fb69ecc0c0f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Консультация Операционные Системы 3 семестр.md",
-                "mode": "preview",
+                "file": "Операционные системы 3 семестр.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Консультация Операционные Системы 3 семестр"
-            }
-          },
-          {
-            "id": "e4a1c6c1113c1e3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6.1 Модели организации оперативной памяти. Основные алгоритмы и понятия.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6.1 Модели организации оперативной памяти. Основные алгоритмы и понятия"
-            }
-          },
-          {
-            "id": "e9041770d10a69b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.3 Основы компьютерной архитектуры.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.3 Основы компьютерной архитектуры"
+              "title": "Операционные системы 3 семестр"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Консультация Операционные Системы 3 семестр.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Консультация Операционные Системы 3 семестр"
+              "title": "Outline of README"
             }
           },
           {
@@ -828,6 +799,26 @@
             "id": "d023ee7fbe916944",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "463aea377b4e7e9d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ad1e5537180a36fc",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -835,7 +826,7 @@
             }
           },
           {
-            "id": "463aea377b4e7e9d",
+            "id": "90b13980154293f7",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -858,7 +849,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Консультация Операционные Системы 3 семестр.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -886,7 +877,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Консультация Операционные Системы 3 семестр"
+              "title": "Graph of README"
             }
           }
         ]
@@ -915,14 +906,15 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "a593ec4de6006fbb",
+  "active": "05efe6df3be2ed3e",
   "lastOpenFiles": [
     "Операционные системы 3 семестр.md",
-    "Операционные системы atomic.md",
     "README.md",
     "1.3 Основы компьютерной архитектуры.md",
-    "1.2 Основы архитектуры вычислительной системы.md",
     "6.1 Модели организации оперативной памяти. Основные алгоритмы и понятия.md",
+    "Консультация Операционные Системы 3 семестр.md",
+    "Операционные системы atomic.md",
+    "1.2 Основы архитектуры вычислительной системы.md",
     "1.1 Этапы развития вычислительной техники и программного обеспечения.md",
     "2.1 Основные концепции.md",
     "1.4 Основы архитектуры операционных систем.md",
@@ -934,7 +926,6 @@
     "3.2 IPC - система межпроцессного взаимодействия.md",
     "obsidian.md",
     "attachments/Pasted image 20260112161243.png",
-    "Консультация Операционные Системы 3 семестр.md",
     "All/Консультация Операционные Системы 3 семестр.md",
     "All/Операционные системы 3 семестр.md",
     "All/Untitled.md",
